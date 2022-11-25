@@ -1,5 +1,5 @@
 package adapter;
 
-interface USBAdapter {
-    public void connectWithUsaAdapter();
+public interface USBAdapter {
+    void connectWithUsaAdapter();
 }
